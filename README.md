@@ -2,7 +2,7 @@
 
 You can hide price and add to cart button for one or many product with this extension. It allow you replace price by text(call for price, get quote price, etc..) and link.
 
-# Feature
+## Feature
 - You can hide for some stores.
 - You can hide for some customer group.
 - You can hide for some or all product.
